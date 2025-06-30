@@ -16,5 +16,5 @@ git clone https://github.com/sameekshya1999/face-blurring-tool.git
 cd face-blurring-tool
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirement.txt
 
